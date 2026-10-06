@@ -61,7 +61,7 @@ Contact for Acquisition:
 📱 +92 326 9447550
 Ready to transfer - /app`;
 }
-return `This is the Live RAG Demo. Full version is in /app - Ready for acquisition! Your file analysis would appear here with vector search.`
+return `if (typeof window !== 'undefined') { window._count = (window._count || 0) + 1; if (window._count == 1) { return `🔥 Real Estate - 100 Leads in 1 Month Plan:\n1. Week 1: Facebook Ads (DHA/Bahria/Lahore) - 20k Budget\n2. Week 2: TikTok + WhatsApp Status - Daily 2 plot videos\n3. Week 3: Referral - 1 lead pe 5% commission\n4. Week 4: Zameen/OLX pe 10 fresh ads daily\nTool: WhatsApp Business + Sheet\n\nYe sample tha. Full ke liye contact karein! 👇`; } else { return `🚀 Full Version Locked!\n\nYe sirf 1 sample tha.\n\nFull me milega:\n✅ PDF Upload + Vector Search\n✅ Unlimited AI Chat\n✅ 0$ Cost RAG\n\nContact for Acquisition:\n📧 chmujahid12619@gmail.com\n📱 +92 326 9447550`; } } return `This is the Live RAG Demo. Full version is in /app - Ready for acquisition!`;`
 .`
 "}]);
     setMsg("");
