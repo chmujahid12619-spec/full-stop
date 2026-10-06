@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FULL STOP AI - Military-Grade RAG SaaS
 
-## Getting Started
+Built on Phone in Termux. 0$ Server Cost. 100% IP Owned.
 
-First, run the development server:
+Live: https://full-stop-two.vercel.app
+Demo: /app
+Owner: Ch Mujahid Hussain
 
-```bash
+What It Does:
+Upload PDF/DOCX/TXT -> Auto Chunking -> Local Embeddings -> Vector Search -> AI Chat
+
+Tech Stack (0$ Cost Proof):
+- Next.js 16 + TypeScript + Tailwind
+- Embedding: Xenova/all-MiniLM-L6-v2 (Local, No OpenAI Cost)
+- Vector DB: In-Memory (No Pinecone Cost)
+- Deployment: Vercel Edge Free
+- Built On: Termux Mobile
+
+Why 0$ TRUE?
+No Pinecone, No OpenAI, No Server
+
+How to Run:
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Transfer Includes:
+1. Domain
+2. Vercel Project
+3. GitHub Repo
+4. 7 Days Support
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contact: chmujahid12619@gmail.com
+WhatsApp: +923269447550
+Price: $5500
