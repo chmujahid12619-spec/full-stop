@@ -7,7 +7,63 @@ export default function Page(){
 
   const send = () => {
     if(!msg) return;
-    setChat([...chat, {role:"user", text: msg}, {role:"ai", text:"This is the Live RAG Demo. Full version is in /app - Ready for acquisition! Your file analysis would appear here with vector search."}]);
+    setChat([...chat, {role:"user", text: msg}, {role:"ai", text:"if (typeof window !== 'undefined' && !window._answered) {
+  window._answered = true;
+  return `🔥 Real Estate - 100 Leads in 1 Month Plan:
+
+1. Week 1: Facebook Ads (DHA/Bahria/Lahore) - 20k Budget - Investor Targeting
+2. Week 2: TikTok + WhatsApp Status - Daily 2 plot videos
+3. Week 3: Referral System - 1 lead lao 5% commission pao
+4. Week 4: Zameen/OLX pe 10 fresh ads daily
+
+Tool: WhatsApp Business + Google Sheet
+
+Ye sample tha. Full version ke liye contact karein! 👇`;
+} else if (typeof window !== 'undefined' && window._answered) {
+  return `🚀 Full Version Locked!
+
+Ye sirf 1 sample tha.
+
+Full me milega:
+✅ PDF Upload + Vector Search
+✅ Unlimited AI Chat
+✅ 0$ Cost RAG
+
+Contact for Acquisition:
+📧 chmujahid12619@gmail.com
+📱 +92 326 9447550
+Ready to transfer - /app`;
+}
+return `if (typeof window !== 'undefined' && !window._answered) {
+  window._answered = true;
+  return `🔥 Real Estate - 100 Leads in 1 Month Plan:
+
+1. Week 1: Facebook Ads (DHA/Bahria/Lahore) - 20k Budget - Investor Targeting
+2. Week 2: TikTok + WhatsApp Status - Daily 2 plot videos
+3. Week 3: Referral System - 1 lead lao 5% commission pao
+4. Week 4: Zameen/OLX pe 10 fresh ads daily
+
+Tool: WhatsApp Business + Google Sheet
+
+Ye sample tha. Full version ke liye contact karein! 👇`;
+} else if (typeof window !== 'undefined' && window._answered) {
+  return `🚀 Full Version Locked!
+
+Ye sirf 1 sample tha.
+
+Full me milega:
+✅ PDF Upload + Vector Search
+✅ Unlimited AI Chat
+✅ 0$ Cost RAG
+
+Contact for Acquisition:
+📧 chmujahid12619@gmail.com
+📱 +92 326 9447550
+Ready to transfer - /app`;
+}
+return `This is the Live RAG Demo. Full version is in /app - Ready for acquisition! Your file analysis would appear here with vector search.`
+.`
+"}]);
     setMsg("");
   }
 
